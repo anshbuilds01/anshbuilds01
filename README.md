@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
 
-<!--
-**anshbuilds01/anshbuilds01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 Video Editing • 🎨 Design • 💻 Website Building
 
-Here are some ideas to get you started:
+I help creators and small brands look sharp online with short-form edits, clean designs and simple websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm up to
+I'm on a 100-day challenge to build real, client-ready skills, and I document every day on YouTube.
+
+## 🛠 What I do
+- 🎬 **Video editing:** Reels, Shorts, YouTube videos
+- 🎨 **Design:** thumbnails, social posts, basic branding
+- 💻 **Websites:** clean, simple sites for small businesses
+
+## 📂 Portfolio
+Coming soon. Samples and projects will be added here.
+
+## 📩 Work with me
+- Email: anshbuilds01@gmail.com
+- Instagram: [@anshbuilds01](https://instagram.com/anshbuilds01)
+- YouTube: [@anshbuilds01](https://www.youtube.com/@anshbuilds01)
+- LinkedIn: [anshbuilds01](https://www.linkedin.com/in/anshbuilds01)
