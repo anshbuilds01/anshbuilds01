@@ -17,6 +17,6 @@ Coming soon. Samples and projects will be added here.
 
 ## 📩 Work with me
 - Email: anshbuilds01@gmail.com
-- Instagram: [@anshbuilds01](https://instagram.com/anshbuilds01)
+- Instagram: [@anshbuilds01](https://instagram.com/anshbuilds_01)
 - YouTube: [@anshbuilds01](https://www.youtube.com/@anshbuilds01)
 - LinkedIn: [anshbuilds01](https://www.linkedin.com/in/anshbuilds01)
